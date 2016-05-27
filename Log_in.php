@@ -50,9 +50,6 @@ session_start();
         <div class="col-md-10 col-md-offset-1">
             <div class="panel panel-default">
                 <div class="panel-heading"><h3 class="panel-title"><strong>Вход </strong></h3>
-                    <div style="float:right; font-size: 80%; position: relative; top:-10px">
-                        <a href="#">Забыли пароль</a>
-                    </div>
                 </div>
   
                 <div class="panel-body">
